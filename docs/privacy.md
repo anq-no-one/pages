@@ -6,21 +6,19 @@ description: Privacy Policy for Kids Coloring Games 2–8.
 
 # Privacy Policy for Kids Coloring Games 2–8
 
-Last updated: July 20, 2026
+Last updated: July 27, 2026
 
 Kids Coloring Games 2–8 is designed for children and families. We limit data collection to what is needed to operate, secure, and improve the app. We do not sell personal information, show third-party advertising, or track children across apps or websites.
 
 ## Data We Process
 
-The app may collect the following limited information for analytics and app operation:
+With a parent's optional consent in Parent Settings, the app may collect the following limited information for analytics and app operation:
 
-- Product interactions, such as screens viewed, games played, tools used, session duration, app version, operating-system version, device class, and language.
+- Product interactions, such as screens viewed, games played, coloring tools and color families used, session duration, and app version.
 - Purchase information, such as the product identifier, purchase or restore result, and subscription status. We do not receive payment-card details.
-- An anonymous installation identifier used to understand sessions and reliability. It is not connected to a name, email address, account, or advertising identifier.
-- Approximate country or region, which our analytics provider may infer from the network connection. We do not collect precise location.
-- Optional diagnostic session recordings. Text inputs are masked. Screen images, including artwork created in the app, may be visible in a recording. We do not record audio or camera input.
+- A random identifier that exists only while the app is running, so related events within that launch can be counted together. It is not stored and changes after the app restarts.
 
-We do not request or collect a child's name, email address, contacts, photos, precise location, or advertising identifier. Artwork is stored on the device unless a parent chooses to save or share it using Apple's system controls.
+We do not request or collect a child's name, email address, contacts, photos, location, language, device identifiers, device model, advertising identifier, or IP-derived location. We do not record screens, audio, camera input, or artwork. Artwork is stored on the device unless a parent chooses to save or share it using Apple's system controls.
 
 ## How We Use Data
 
@@ -28,17 +26,17 @@ We use this information only to support the app's internal operations: understan
 
 ## Service Providers
 
-We use [PostHog](https://posthog.com/privacy) as an analytics and diagnostics processor. Analytics data is sent to PostHog's European Union service and processed only on our behalf for the purposes described above. Purchases are processed by Apple through StoreKit under Apple's privacy terms.
+We use [PostHog](https://posthog.com/privacy) as an analytics processor. Analytics data is sent to PostHog's European Union service and processed only on our behalf for the purposes described above. We explicitly disable IP geolocation, user profiles, persistent identifiers, automatic device properties, and session replay. Purchases are processed by Apple through StoreKit under Apple's privacy terms.
 
 ## Parent Controls and Choices
 
-Analytics and diagnostic recording controls are located behind the parent gate in Parent Settings. A parent can disable analytics collection, disable session recording, or reset the anonymous analytics identifier at any time. Disabling collection stops new analytics from being sent.
+Analytics is off by default. Its control is located behind the parent gate in Parent Settings. A parent can choose to enable or disable anonymous analytics at any time. Disabling collection stops new analytics from being sent.
 
-To request deletion of analytics data associated with an installation, reset the analytics identifier in Parent Settings and contact us using the address below. Because we do not create user accounts, we may need the anonymous identifier shown by the app to locate the data.
+Because we do not create accounts or send a persistent installation or device identifier, analytics events cannot be linked back to a particular child or installation. Contact us with any privacy or retention request.
 
 ## Children's Privacy
 
-Kids Coloring Games 2–8 is intended for children. The limited identifiers and usage information described above are used solely to support the app's internal operations. We do not knowingly collect personal information from children for advertising, profiling, or sale. If you believe a child provided personal information to us, contact us and we will delete it.
+Kids Coloring Games 2–8 is intended for children. The limited, parent-enabled usage information described above is used solely to support the app's internal operations. We do not knowingly collect personal information from children for advertising, profiling, or sale. If you believe a child provided personal information to us, contact us and we will delete it.
 
 ## Data Retention and Security
 
