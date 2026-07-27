@@ -159,7 +159,7 @@ h3 {
   display: grid;
   min-height: 760px;
   padding-block: 92px 86px;
-  grid-template-columns: minmax(0, 1fr) minmax(420px, 0.88fr);
+  grid-template-columns: minmax(0, 1fr) minmax(470px, 0.95fr);
   align-items: center;
   gap: 70px;
 }
@@ -245,12 +245,12 @@ h3 {
 
 .hero-gallery {
   position: relative;
-  min-height: 650px;
+  min-height: 560px;
 }
 
 .hero-gallery::before {
   position: absolute;
-  inset: 7% 2% 3% 3%;
+  inset: 5% -2% 4% 2%;
   border-radius: 47% 53% 40% 60% / 53% 38% 62% 47%;
   background: var(--mint);
   content: "";
@@ -259,31 +259,33 @@ h3 {
 
 .screen-card {
   position: absolute;
-  width: min(49%, 250px);
+  width: min(58%, 300px);
+  aspect-ratio: 3 / 4;
   border: 8px solid rgba(255, 255, 255, 0.95);
   border-radius: 30px;
   box-shadow: var(--shadow);
+  object-fit: contain;
 }
 
 .screen-main {
   z-index: 3;
-  top: 1%;
-  left: 25%;
-  width: min(56%, 286px);
+  top: 3%;
+  left: 16%;
+  width: min(70%, 360px);
   transform: rotate(-1deg);
 }
 
 .screen-left {
   z-index: 1;
-  top: 21%;
-  left: -3%;
+  top: 24%;
+  left: -4%;
   transform: rotate(-9deg);
 }
 
 .screen-right {
   z-index: 2;
-  top: 20%;
-  right: -2%;
+  top: 22%;
+  right: -3%;
   transform: rotate(8deg);
 }
 
@@ -475,10 +477,12 @@ h3 {
 
 .activity-card img {
   width: 76%;
+  aspect-ratio: 3 / 4;
   margin: 28px auto -50%;
   border: 7px solid var(--white);
   border-radius: 28px;
   box-shadow: 0 22px 46px rgba(55, 42, 90, 0.16);
+  object-fit: contain;
   transition: transform 260ms ease;
 }
 
@@ -880,7 +884,7 @@ video:focus-visible {
 
   .hero-gallery {
     width: 100%;
-    min-height: 500px;
+    min-height: 430px;
   }
 
   .screen-card {
@@ -889,7 +893,7 @@ video:focus-visible {
   }
 
   .screen-main {
-    width: 52%;
+    width: 64%;
   }
 
   .promise-strip {
