@@ -1,8 +1,14 @@
-# Privacy Policy for Kids Games Hub
+---
+layout: legal
+title: Privacy Policy
+description: Privacy Policy for Kids Coloring Games 2–8.
+---
+
+# Privacy Policy for Kids Coloring Games 2–8
 
 Last updated: July 20, 2026
 
-Kids Games Hub is designed for children and families. We limit data collection to what is needed to operate, secure, and improve the app. We do not sell personal information, show third-party advertising, or track children across apps or websites.
+Kids Coloring Games 2–8 is designed for children and families. We limit data collection to what is needed to operate, secure, and improve the app. We do not sell personal information, show third-party advertising, or track children across apps or websites.
 
 ## Data We Process
 
@@ -32,7 +38,7 @@ To request deletion of analytics data associated with an installation, reset the
 
 ## Children's Privacy
 
-Kids Games Hub is intended for children. The limited identifiers and usage information described above are used solely to support the app's internal operations. We do not knowingly collect personal information from children for advertising, profiling, or sale. If you believe a child provided personal information to us, contact us and we will delete it.
+Kids Coloring Games 2–8 is intended for children. The limited identifiers and usage information described above are used solely to support the app's internal operations. We do not knowingly collect personal information from children for advertising, profiling, or sale. If you believe a child provided personal information to us, contact us and we will delete it.
 
 ## Data Retention and Security
 
