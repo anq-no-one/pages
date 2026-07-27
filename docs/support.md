@@ -1,10 +1,16 @@
-# Kids Games Hub - Support
+---
+layout: legal
+title: Support
+description: Help and frequently asked questions for Kids Coloring Games 2–8.
+---
+
+# Kids Coloring Games 2–8 — Support
 
 Last updated: February 23, 2026
 
 ## Getting Help
 
-If you need help with Kids Games Hub, you're in the right place. Below you'll find answers to common questions and ways to reach us.
+If you need help with Kids Coloring Games 2–8, you're in the right place. Below you'll find answers to common questions and ways to reach us.
 
 ## Frequently Asked Questions
 
@@ -12,7 +18,7 @@ If you need help with Kids Games Hub, you're in the right place. Below you'll fi
 Tap on any coloring page to open it. Use one finger to draw or tap to fill areas with color. Choose colors from the palette at the bottom of the screen. Pinch with two fingers to zoom in and out.
 
 ### How do I switch between drawing modes?
-Kids Games Hub offers two coloring modes: **Free Draw** (draw with your finger like a brush) and **Tap-to-Fill** (tap an area to fill it with color). You can switch modes from the coloring screen controls.
+Kids Coloring Games 2–8 offers two coloring modes: **Free Draw** (draw with your finger like a brush) and **Tap-to-Fill** (tap an area to fill it with color). You can switch modes from the coloring screen controls.
 
 ### Can I undo my coloring?
 Yes! Tap the undo button to remove your last stroke or fill.
@@ -30,7 +36,7 @@ Settings are behind a Parent Gate to keep kids safe. Tap the settings icon and s
 Tap on any locked game to see subscription options. Subscriptions are managed through your Apple ID. You can choose monthly or yearly plans.
 
 ### How do I cancel my subscription?
-Go to your device **Settings > Apple ID > Subscriptions** and select Kids Games Hub to manage or cancel your subscription.
+Go to your device **Settings > Apple ID > Subscriptions** and select Kids Coloring Games 2–8 to manage or cancel your subscription.
 
 ### How do I restore my purchase on a new device?
 Open the app, tap on a locked game, and your subscription will be restored automatically if you're signed in with the same Apple ID.
