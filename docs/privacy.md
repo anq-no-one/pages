@@ -6,9 +6,23 @@ description: Privacy Policy for Kids Coloring Games 2–8.
 
 # Privacy Policy for Kids Coloring Games 2–8
 
-Last updated: October 6, 2026
+Last updated: October 21, 2026
 
 Kids Coloring Games 2–8 is designed for children and families. We limit data collection to what is needed to operate, secure, and improve the app. We do not sell personal information, show third-party advertising, or track children across apps or websites.
+
+## Version 2.0 and Later
+
+This section applies to Piks 2.0, including its TestFlight and App Review builds. The earlier-version section below continues to describe 1.x installations.
+
+Version 2.0 sends no analytics, crash reports or usage events off the device. It has no analytics SDK, persistent analytics identifier, advertising identifier, user accounts or tracking across apps or websites. Small aggregate product counters may be held in memory; they are not written to storage, carry no user or device identifier, disappear when the app closes, and their network delivery is disabled. The parent analytics setting controls this local counting.
+
+Children's artwork and progress stay on the device. We do not request a child's name, email, contacts, photos or location, and do not record screens, microphone audio or camera input.
+
+Theme Packs and the Full Version are one-time purchases processed by Apple through StoreKit under Apple's privacy terms. The app verifies Apple-signed transactions locally to determine access. We do not receive payment-card details. Existing subscriptions remain recognized through their already-paid period; they do not become lifetime access.
+
+## Versions Before 2.0
+
+The following disclosures describe earlier app versions. Updating to version 2.0 stops the earlier analytics and subscription-record integrations. Parents may contact us about data previously sent by an earlier version.
 
 ## Data We Process
 
