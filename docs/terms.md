@@ -1,36 +1,31 @@
 ---
 layout: legal
 title: Terms of Service
-description: Terms of Service for Kids Coloring Games 2–8.
+description: Terms for Piks coloring and games.
 ---
 
-# Terms of Service for Kids Coloring Games 2–8
+# Piks — Terms of Service
 
-Last updated: January 26, 2026
+Last updated: October 21, 2026
 
-## Acceptance of Terms
-By downloading or using Kids Coloring Games 2–8, you agree to these Terms of Service.
+## Use of the App
 
-## Description of Service
-Kids Coloring Games 2–8 is a children's educational game app featuring coloring, puzzles, memory games, piano, and shapes activities.
+Piks is designed for children and families. A parent or guardian should supervise purchases and agree to the applicable terms on behalf of a child. Apple's standard [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) applies.
 
-## Subscriptions
-- Some features require a paid subscription.
-- Subscriptions automatically renew unless cancelled at least 24 hours before the end of the current period.
-- Payment is charged to your Apple ID account at confirmation of purchase.
-- Manage or cancel subscriptions in your device Settings > Apple ID > Subscriptions.
+## Version 2.0 Content and Purchases
 
-## Use by Children
-This app is designed for children ages 2-8. A parent or guardian must agree to these terms on behalf of any child user.
+Version 2.0 offers coloring, jigsaw puzzles and memory matching. Some animal coloring pictures are free. Individual Theme Packs and the Full Version are non-consumable one-time purchases. A Theme Pack unlocks the pictures in that theme. The Full Version unlocks all themes, Puzzle and Memory permanently. Version 2.0 offers no new subscription or free trial.
 
-## Intellectual Property
-All content, graphics, and game designs are the property of Kids Coloring Games 2–8.
+Apple processes payments and shows the localized price before purchase confirmation. Purchases can be restored using the same Apple Account through Restore in the app. Apple's purchase and refund rules apply. Contact Apple to request a refund.
 
-## Limitation of Liability
-The app is provided "as is" without warranties of any kind. We are not liable for any damages arising from the use of this app.
+## Earlier Purchases and Versions
 
-## Changes to Terms
-We may update these terms from time to time. Continued use of the app constitutes acceptance of the updated terms.
+Earlier versions included a different set of games and offered subscriptions. Existing lifetime access remains permanent. Previously paid subscriptions retain access until their paid expiration date; they do not convert to lifetime access. Manage or cancel subscriptions in device Settings > Apple Account > Subscriptions. Availability of older subscription products may change as the app transitions to one-time purchases.
 
-## Contact
-For questions about these terms, contact: anq.no.one@gmail.com
+## Artwork and Content
+
+The app saves artwork locally on the device. Removing the app or its data may remove that artwork. App graphics, designs and other supplied content are protected by intellectual-property rights. These terms do not transfer ownership of that supplied content.
+
+## Privacy and Support
+
+See the [Privacy Policy](https://anq-no-one.github.io/pages/privacy) for the differences between version 2.0 and earlier releases. For help, visit [Support](https://anq-no-one.github.io/pages/support) or email **anq.no.one@gmail.com**.
