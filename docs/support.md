@@ -1,62 +1,39 @@
 ---
 layout: legal
 title: Support
-description: Help and frequently asked questions for Kids Coloring Games 2–8.
+description: Help for Piks coloring, puzzle and memory games.
 ---
 
-# Kids Coloring Games 2–8 — Support
+# Piks — Support
 
-Last updated: February 23, 2026
+Last updated: October 21, 2026
 
-## Getting Help
+## Piks 2.0
 
-If you need help with Kids Coloring Games 2–8, you're in the right place. Below you'll find answers to common questions and ways to reach us.
+Version 2.0 includes coloring, jigsaw puzzles and memory matching. Start with the free Animals pictures. Select a picture and choose a drawing tool on the right. Swipe the color strip or tap a visible color. Tap an area with Fill, or draw with your finger using the other tools. Undo reverses the last action. Progress is stored locally when you leave a picture.
 
-## Frequently Asked Questions
+### Parent controls
 
-### How do I color a picture?
-Tap on any coloring page to open it. Use one finger to draw or tap to fill areas with color. Choose colors from the palette at the bottom of the screen. Pinch with two fingers to zoom in and out.
+Tap Parents on the home screen. The parent gate shows three numbers written as words. Enter the corresponding digits, in order, into the adjacent fields. For example, six, one, four means 614. The challenge changes each time. Purchases and external links are behind this gate.
 
-### How do I switch between drawing modes?
-Kids Coloring Games 2–8 offers two coloring modes: **Free Draw** (draw with your finger like a brush) and **Tap-to-Fill** (tap an area to fill it with color). You can switch modes from the coloring screen controls.
+### One-time purchases
 
-### Can I undo my coloring?
-Yes! Tap the undo button to remove your last stroke or fill.
+A Theme Pack unlocks all coloring pictures in that theme. The Full Version unlocks all themes, Puzzle and Memory permanently. These are one-time purchases, with no new subscription or recurring charge. Apple's purchase sheet shows the final localized price before confirmation.
 
-### How do I save my coloring progress?
-Your progress is saved automatically when you leave a coloring page. When you come back, your coloring will be right where you left it.
+### Restore access
 
-### How do I clear a coloring page and start over?
-Tap the trash button once — it will turn red as a warning. Tap it again to confirm and clear the canvas.
+Use Restore on the offer screen or in parent settings while signed in with the Apple Account used to purchase. Restoring purchases requires an internet connection. Already unlocked content works offline. Existing lifetime purchases remain permanent. Existing subscriptions are recognized only until the end of their paid period.
 
-### How do I access the Settings?
-Settings are behind a Parent Gate to keep kids safe. Tap the settings icon and solve the math problem to access parental controls.
+## Earlier 1.x Versions
 
-### How do I subscribe to Premium?
-Tap on any locked game to see subscription options. Subscriptions are managed through your Apple ID. You can choose monthly or yearly plans.
+Earlier versions offered subscriptions and a different selection of games. To manage or cancel an existing subscription, open iPhone or iPad Settings, tap your Apple Account, then Subscriptions. You can also use Apple's subscription management page. Updating the app does not turn a subscription into lifetime ownership.
 
-### How do I cancel my subscription?
-Go to your device **Settings > Apple ID > Subscriptions** and select Kids Coloring Games 2–8 to manage or cancel your subscription.
+## Troubleshooting
 
-### How do I restore my purchase on a new device?
-Open the app, tap on a locked game, and your subscription will be restored automatically if you're signed in with the same Apple ID.
+Close and reopen the app, restart the device, and check for updates. If a purchase is missing, check the Apple Account and try Restore with an internet connection. Reinstalling the app may remove locally stored artwork; contact us before reinstalling if you want to preserve it.
 
-### The app isn't working correctly. What should I do?
-Try these steps:
-1. Close and reopen the app
-2. Restart your device
-3. Make sure you have the latest version from the App Store
-4. If the issue persists, contact us using the information below
+## Contact
 
-## Contact Us
+Email **anq.no.one@gmail.com** with your app version, device model and a description of the issue. Avoid including children's personal information.
 
-For any questions, issues, or feedback, please email us at:
-
-**anq.no.one@gmail.com**
-
-We aim to respond within 48 hours.
-
-## Links
-
-- [Privacy Policy](https://anq-no-one.github.io/pages/privacy)
-- [Terms of Service](https://anq-no-one.github.io/pages/terms)
+[Privacy Policy](https://anq-no-one.github.io/pages/privacy) · [Terms](https://anq-no-one.github.io/pages/terms)
