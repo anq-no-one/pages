@@ -6,13 +6,28 @@ description: Privacy Policy for Kids Coloring Games 2–8.
 
 # Privacy Policy for Kids Coloring Games 2–8
 
-Last updated: October 21, 2026
+Last updated: October 26, 2026
 
 Kids Coloring Games 2–8 is designed for children and families. We limit data collection to what is needed to operate, secure, and improve the app. We do not sell personal information, show third-party advertising, or track children across apps or websites.
 
-## Version 2.0 and Later
+## Version 2.1 and Later
 
-This section applies to Piks 2.0, including its TestFlight and App Review builds. The earlier-version section below continues to describe 1.x installations.
+Version 2.1 counts how the app is used so we can make it better for children. Unless a parent turns analytics off in Parent Settings, the app counts events such as:
+- opening the app;
+- opening a theme or a picture, finishing or leaving a picture, choosing a drawing tool, using Undo or Clear;
+- starting and finishing Puzzle or Matching Pairs;
+- onboarding answers (the child's age group and favorite themes);
+- paywall and purchase steps, and parent gate results;
+- sound and music settings;
+- save errors.
+
+The app adds each event to a total in memory and sends only those totals, about once a minute, to our own server on Cloudflare Workers. The server rejects any data outside a fixed list of event names and values, does not record IP addresses or network headers, sets no cookies and keeps no request logs. It adds the totals up per app version and day, deletes them after 90 days, and once a day passes those daily totals to our analytics provider, PostHog (EU), without any person profile.
+
+The counts are grouped only into coarse buckets: days since first launch (same day, next day, 2–7, 8–30, 31+), phone or tablet, the app's display language, and session length ranges. The first-launch day used for the "days since first launch" bucket stays on the device; only the bucket is sent. Version 2.1 sends no advertising identifier, device identifier, installation identifier, user account, name, location, photos, drawings or precise time, and it does not track children across apps or websites. Turning analytics off stops counting immediately and discards counts not yet sent.
+
+## Version 2.0
+
+This section applies to Piks 2.0.x, including its TestFlight and App Review builds. The earlier-version section below continues to describe 1.x installations.
 
 Version 2.0 sends no analytics, crash reports or usage events off the device. It has no analytics SDK, persistent analytics identifier, advertising identifier, user accounts or tracking across apps or websites. Small aggregate product counters may be held in memory; they are not written to storage, carry no user or device identifier, disappear when the app closes, and their network delivery is disabled. The parent analytics setting controls this local counting.
 
