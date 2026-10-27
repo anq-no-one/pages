@@ -516,33 +516,20 @@ h3 {
 
 .video-phone {
   position: relative;
-  width: min(72%, 320px);
+  width: min(100%, 620px);
   margin-inline: auto;
   padding: 10px;
   border: 3px solid rgba(255, 255, 255, 0.82);
-  border-radius: 52px;
+  border-radius: 36px;
   background: #101016;
   box-shadow: 0 45px 100px rgba(0, 0, 0, 0.4);
 }
 
-.video-phone::before {
-  position: absolute;
-  z-index: 2;
-  top: 19px;
-  left: 50%;
-  width: 31%;
-  height: 23px;
-  border-radius: 999px;
-  background: #0a0a0c;
-  content: "";
-  pointer-events: none;
-  transform: translateX(-50%);
-}
-
 .video-phone video {
+  display: block;
   width: 100%;
-  aspect-ratio: 220 / 480;
-  border-radius: 40px;
+  aspect-ratio: 1920 / 886;
+  border-radius: 26px;
   background: #dff2ff;
   object-fit: cover;
 }
@@ -1106,7 +1093,7 @@ video:focus-visible {
   }
 
   .video-phone {
-    width: min(78%, 300px);
+    width: 100%;
   }
 
   .activity-grid {
