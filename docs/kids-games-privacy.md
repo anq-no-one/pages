@@ -1,17 +1,17 @@
 ---
 layout: legal
 kids_games: true
-title: Piks Toddler Games Privacy Policy
-description: How Piks Toddler Games handles data.
+title: "Toddler Games: Piks Privacy Policy"
+description: How Toddler Games: Piks handles data.
 ---
 
-# Piks Toddler Games Privacy Policy
+# Toddler Games: Piks Privacy Policy
 
 Effective November 27, 2026.
 
 ## The app
 
-Piks Toddler Games does not collect personal data or require an account. The app has no ads, tracking, or third-party analytics.
+Toddler Games: Piks does not collect personal data or require an account. The app has no ads, tracking, or third-party analytics.
 
 The app saves game progress and preferences on your device. You can remove this local data by deleting the app. Games can be played offline.
 

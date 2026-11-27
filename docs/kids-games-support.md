@@ -1,11 +1,11 @@
 ---
 layout: legal
 kids_games: true
-title: Piks Toddler Games Support
-description: Get help with Piks Toddler Games.
+title: "Toddler Games: Piks Support"
+description: Get help with Toddler Games: Piks.
 ---
 
-# Piks Toddler Games Support
+# Toddler Games: Piks Support
 
 ## Play a game
 
@@ -23,4 +23,4 @@ To restore, tap Parents in the Game Tree and answer the addition problem. Select
 
 Email [anq.no.one@gmail.com](mailto:anq.no.one@gmail.com). Include your app version, device model, and a short description of the problem. Please leave out your child’s personal information.
 
-See [Piks Toddler Games]({{ '/kids-games' | relative_url }}), the [Privacy Policy]({{ '/kids-games-privacy' | relative_url }}), and the [Terms of Use]({{ '/kids-games-terms' | relative_url }}).
+See [Toddler Games: Piks]({{ '/kids-games' | relative_url }}), the [Privacy Policy]({{ '/kids-games-privacy' | relative_url }}), and the [Terms of Use]({{ '/kids-games-terms' | relative_url }}).
