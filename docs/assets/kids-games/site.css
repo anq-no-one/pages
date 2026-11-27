@@ -1,0 +1,42 @@
+:root {
+  color-scheme: light;
+  color: #261945;
+  background: #fff9ef;
+  font: 16px/1.55 system-ui, sans-serif;
+  --accent: #4527a7;
+}
+* { box-sizing: border-box; }
+body { margin: 0; }
+a { color: inherit; text-underline-offset: .2em; }
+a:focus-visible { outline: 3px solid #1f6dad; outline-offset: 5px; }
+img { display: block; max-width: 100%; height: auto; }
+.wrap { width: min(1120px, calc(100% - 48px)); margin-inline: auto; }
+.skip { position: absolute; top: -5rem; left: 1rem; padding: .8rem; background: white; }
+.skip:focus { top: 1rem; z-index: 1; }
+.site-header, .site-footer { display: flex; justify-content: space-between; align-items: center; gap: 22px; padding-block: 24px; }
+.brand { display: flex; align-items: center; gap: 10px; font-weight: 800; text-decoration: none; }
+.brand img { border-radius: 12px; }
+.hero { display: grid; grid-template-columns: 1.05fr .95fr; gap: clamp(24px, 6vw, 75px); align-items: center; padding: clamp(24px, 6vw, 76px); border-radius: 40px; background: #d9f8eb; }
+h1, h2, figcaption { font-family: ui-rounded, system-ui, sans-serif; line-height: 1.08; margin: 0; }
+h1 { max-width: 9ch; font-size: clamp(2.8rem, 6vw, 5.7rem); font-weight: 900; letter-spacing: -.055em; }
+h2 { font-size: clamp(1.8rem, 3vw, 2.9rem); font-weight: 850; letter-spacing: -.025em; }
+p { max-width: 36ch; font-size: clamp(1.04rem, 1.6vw, 1.3rem); }
+.button { display: inline-block; padding: .8rem 1.4rem; border-radius: 999px; color: #fff; background: var(--accent); font-weight: 750; text-decoration: none; }
+.button:hover { background: #331d85; }
+.hero-art { border-radius: 23%; box-shadow: 0 15px 30px #231b4333; }
+.games { padding-block: clamp(40px, 7vw, 75px); scroll-margin-top: 20px; }
+.game-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; margin-top: 24px; }
+figure { margin: 0; overflow: hidden; border-radius: 22px; background: #fff; border: 1px solid #e8dbfa; }
+figure img { width: 100%; aspect-ratio: 2.17; object-fit: cover; }
+figcaption { padding: 16px; font-size: 1.1rem; font-weight: 800; }
+.parent-note { border-radius: 26px; background: #efe4ff; padding: clamp(23px, 5vw, 52px); }
+.parent-note ul { display: flex; flex-wrap: wrap; list-style-position: inside; padding: 0; margin: .9rem 0 0; gap: .4rem 1.6rem; }
+.site-footer { flex-wrap: wrap; font-size: .9rem; }
+.site-footer nav { display: flex; gap: 1rem; }
+@media (max-width: 680px) {
+  .wrap { width: min(100% - 32px, 440px); }
+  .hero { grid-template-columns: 1fr; border-radius: 26px; }
+  .hero-art { width: min(78%, 300px); justify-self: center; }
+  .game-grid { grid-template-columns: 1fr; }
+  .parent-note ul { display: block; }
+}
