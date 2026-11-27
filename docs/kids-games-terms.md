@@ -1,5 +1,6 @@
 ---
 layout: legal
+kids_games: true
 title: Piks Toddler Games Terms of Use
 description: Terms for playing and buying Piks Toddler Games.
 ---

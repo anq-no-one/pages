@@ -1,5 +1,6 @@
 ---
 layout: legal
+kids_games: true
 title: Piks Toddler Games Support
 description: Get help with Piks Toddler Games.
 ---

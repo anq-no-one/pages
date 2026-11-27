@@ -1,5 +1,6 @@
 ---
 layout: legal
+kids_games: true
 title: Piks Toddler Games Privacy Policy
 description: How Piks Toddler Games handles data.
 ---
